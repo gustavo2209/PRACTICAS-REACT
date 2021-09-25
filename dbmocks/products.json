@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SAMSUNG TV 49 4K UHD",
+      "detail": "Modelo: 4UK6200",
+      "price": "1500",
+      "stock": 1000
+    },
+    {
+      "id": 2,
+      "name": "SONY TV 79 6K",
+      "detail": "Modelo: 4UK7200",
+      "price": 11499.99,
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "name": "PHILIPS TV 105 10K WUHD",
+      "detail": "Modelo: 10UKX100",
+      "price": 499.99,
+      "stock": 10
+    },
+    {
+      "name": "espacio sideral",
+      "detail": "nostros somos iguales ante Dios",
+      "price": "15",
+      "stock": 100,
+      "id": 4
+    }
+  ]
+}
